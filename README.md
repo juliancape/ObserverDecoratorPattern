@@ -1,6 +1,6 @@
 # ObserverDecoratorPattern
-Exercise implementing Observer and Decorator pattern in Java
-computer store where you can personalize your computer adding:
+Exercise implementing Observer and Decorator pattern in Java <br>
+Computer store where you can personalize your computer adding:
 - Dedicated graphics
 - SSD
 - RAM
